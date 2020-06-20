@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://saimanwong.com/posts/post-template/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saimanwong.com/posts/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saimanwong.com/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saimanwong.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saimanwong.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saimanwong.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saimanwong.com/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saimanwong.com/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saimanwong.com/tags/</loc>
+  </url>
+  
+</urlset>
